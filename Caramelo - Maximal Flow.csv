@@ -1,0 +1,18 @@
+,,,,,,,,,,,,
+,,,,,Upper Flow Capacity,,,,,,,
+Flow,From,,To,,,,,Location,Inflow,Outflow,Netflow,Demand
+198,0,Butter Rum Reef,1,Candyfloss Countryside,478,,0,Butter Rum Reef,659,659,0,0
+344,0,Butter Rum Reef,2,Gummy Grotto,344,,1,Candyfloss Countryside,198,198,0,0
+117,0,Butter Rum Reef,3,Marshmallow Meadows,117,,2,Gummy Grotto,344,344,0,0
+198,1,Candyfloss Countryside,5,Praline Park,198,,3,Marshmallow Meadows,117,117,0,0
+0,2,Gummy Grotto,1,Candyfloss Countryside,168,,4,Marzipan Metropolis,140,140,0,0
+90,2,Gummy Grotto,5,Praline Park,261,,5,Praline Park,288,288,0,0
+254,2,Gummy Grotto,6,Taffy Tundra,298,,6,Taffy Tundra,254,254,0,0
+117,3,Marshmallow Meadows,4,Marzipan Metropolis,291,,7,Tartberry Thicket,659,659,0,0
+140,4,Marzipan Metropolis,7,Tartberry Thicket,140,,,,,,,
+265,5,Praline Park,7,Tartberry Thicket,265,,,Maximal Flow,,,,
+0,5,Praline Park,3,Marshmallow Meadows,250,,,659,,,,
+23,5,Praline Park,4,Marzipan Metropolis,175,,,,,,,
+254,6,Taffy Tundra,7,Tartberry Thicket,467,,,,,,,
+0,6,Taffy Tundra,3,Marshmallow Meadows,250,,,,,,,
+659,7,Tartberry Thicket,0,Butter Rum Reef,9999,,,,,,,

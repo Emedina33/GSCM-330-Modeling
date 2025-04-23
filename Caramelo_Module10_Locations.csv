@@ -1,0 +1,8 @@
+location_id,location_name,latitude,longitude,supply,demand
+1,Butter Rum Reef,37.5,-102.5,9806.0,
+2,Candyfloss Countryside,30.08,-99.31,,1379.0
+3,Gummy Grotto,31.85,-93.48,,1751.0
+4,Marzipan Metropolis,36.55,-113.64,,1350.0
+5,Pudding Peaks,35.18,-109.14,,1823.0
+6,Taffy Tundra,43.87,-114.64,,1973.0
+7,Toblerone Tower,39.78,-94.98,,1530.0
